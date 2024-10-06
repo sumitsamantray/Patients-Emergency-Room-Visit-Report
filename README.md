@@ -1,17 +1,17 @@
 # Patients-Emergency-Room-Visit-Report
+ Dashboard [link](https://app.powerbi.com/view?r=eyJrIjoiYTBmYzRkMWYtNDI5Yy00ZDk5LWI2NGYtYWM0ZTE5M2EwNTNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+ 
 Dashboard
 ![image](https://github.com/user-attachments/assets/135c331c-dbcd-4ecf-9cbd-b34b222bf3b8)
-
 ![Screenshot 2024-10-06 012110](https://github.com/user-attachments/assets/c0ee293e-2ec5-4df1-8d8b-ad7a8e0c1287)
 
 Data Modeling
 ![image](https://github.com/user-attachments/assets/f271b0b0-3d4c-4421-ae05-415d10ad1988)
-
 Tables
+
 ![image](https://github.com/user-attachments/assets/8c9f7f8f-b62e-4e8f-9024-1dc7c2c16f3d)
 
 
- Project [link](https://app.powerbi.com/view?r=eyJrIjoiYTBmYzRkMWYtNDI5Yy00ZDk5LWI2NGYtYWM0ZTE5M2EwNTNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 1. **Average Wait Time**: Investigate the typical duration patients spend waiting before their appointments. We can detect patterns and trends by analysing this data, highlighting potential inefficiencies in our scheduling and patient flow systems. This will offer valuable insights into how effectively our healthcare system manages patient influx and optimizes appointment timing.
 
